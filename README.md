@@ -13,6 +13,6 @@ Collecting scores and analysis are done other members of Neucodelab 2 in ITLab. 
 
 ### Background of the project
 We are doing a research on the students' behaviour on online learning platform, and how to use the tracked data to assist teachers in grading them.\
-The platform we choose is a website call "Vncodelab" (currently down), made by __Mr.Pham Xuan Lam__, guider of the ITLab NEU.
+The platform we choose is a website call "Vncodelab" (currently down for maintenance), made by __Mr.Pham Xuan Lam__, guider of the ITLab NEU.
 
 ### Currently there is no deep analysis about the data on this repo, only handing files and raw data
