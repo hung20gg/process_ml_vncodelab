@@ -19,7 +19,8 @@ This repo contains files that are required for:
 Collecting scores and future analysis are done other members of Neucodelab 2 in ITLab. Thanks alot for your help.
 
 ### Background of the project
-We are doing a research on the students' behaviour on online learning platform, its relationship with their scores, and how to use the tracked data to assist teachers in grading them.\
+We are doing a research on the students' behaviour on online learning platform, its relationship with their scores, and how to use the tracked data to assist teachers in grading them.
+
 The platform we choose is a website call "Vncodelab" (currently down), made by __Mr.Pham Xuan Lam__, guider of the ITLab NEU.
 
 ### Currently there is no deep analysis about the data on this repo, only handing files and raw data
